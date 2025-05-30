@@ -5,5 +5,5 @@ xgboost==3.0.0
 matplotlib==3.9.2
 seaborn
 numpy
-joblib
+joblib==1.4.2
 protobuf==4.25.3
